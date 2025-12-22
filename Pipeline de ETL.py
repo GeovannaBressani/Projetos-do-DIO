@@ -10,7 +10,7 @@ from datetime import datetime
 import logging
 import sys
 
-# ====================== CONFIGURAÇÃO ======================
+# ====================== CONFIGURAÇÃO =======================
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
